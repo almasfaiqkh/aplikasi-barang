@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Toko Barang</string>
+    <string name="npm">Kode Barang</string>
+    <string name="name">Nama Barang</string>
+    <string name="classes">Jumlah Barang</string>
+    <string name="session">Satuan Barang</string>
+    <string name="harga">Harga Barang</string>
+    <string name="status">Status</string>
+    <string name="register">Daftar</string>
+    <string name="error">Kesalahan Jaringan</string>
+    <string name="view">Lihat Data</string>
+</resources>
